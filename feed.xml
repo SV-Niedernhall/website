@@ -3,10 +3,31 @@
     <title>SV Niedernhall</title>
     <link href="https://sv-niedernhall.github.io/website/feed.xml" rel="self" />
     <link href="https://sv-niedernhall.github.io/website" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2021-10-04T22:27:25+02:00</updated>
     <author>
         <name>Lucien Kerl</name>
     </author>
     <id>https://sv-niedernhall.github.io/website</id>
 
+    <entry>
+        <title>Corona-News</title>
+        <author>
+            <name>Lucien Kerl</name>
+        </author>
+        <link href="https://sv-niedernhall.github.io/website/corona-news.html"/>
+        <id>https://sv-niedernhall.github.io/website/corona-news.html</id>
+
+        <updated>2021-10-04T22:27:25+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Es darf wieder geschossen werden. Es sind lediglich die 3G Regeln einzuhalten. Wir freuen uns auf euer erscheinen.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Es darf wieder geschossen werden. Es sind lediglich die 3G Regeln einzuhalten.</p>
+<p>Wir freuen uns auf euer erscheinen.</p>
+            ]]>
+        </content>
+    </entry>
 </feed>

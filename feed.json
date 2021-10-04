@@ -9,5 +9,19 @@
         "name": "Lucien Kerl"
     },
     "items": [
+        {
+            "id": "https://sv-niedernhall.github.io/website/corona-news.html",
+            "url": "https://sv-niedernhall.github.io/website/corona-news.html",
+            "title": "Corona-News",
+            "summary": "Es darf wieder geschossen werden. Es sind lediglich die 3G Regeln einzuhalten. Wir freuen uns auf euer erscheinen.",
+            "content_html": "<p>Es darf wieder geschossen werden. Es sind lediglich die 3G Regeln einzuhalten.</p>\n<p>Wir freuen uns auf euer erscheinen.</p>",
+            "author": {
+                "name": "Lucien Kerl"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-04T22:27:25+02:00",
+            "date_modified": "2021-10-04T22:27:25+02:00"
+        }
     ]
 }

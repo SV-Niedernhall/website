@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>SV Niedernhall</title>
-    <link href="https://sv-niedernhall.github.io/website/feed.xml" rel="self" />
-    <link href="https://sv-niedernhall.github.io/website" />
+    <link href="https://sv-niedernhall.de/feed.xml" rel="self" />
+    <link href="https://sv-niedernhall.de" />
     <updated>2021-10-04T22:27:25+02:00</updated>
     <author>
         <name>Lucien Kerl</name>
     </author>
-    <id>https://sv-niedernhall.github.io/website</id>
+    <id>https://sv-niedernhall.de</id>
 
     <entry>
         <title>Corona-News</title>
         <author>
             <name>Lucien Kerl</name>
         </author>
-        <link href="https://sv-niedernhall.github.io/website/corona-news.html"/>
-        <id>https://sv-niedernhall.github.io/website/corona-news.html</id>
+        <link href="https://sv-niedernhall.de/corona-news.html"/>
+        <id>https://sv-niedernhall.de/corona-news.html</id>
 
         <updated>2021-10-04T22:27:25+02:00</updated>
             <summary>

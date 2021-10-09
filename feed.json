@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://sv-niedernhall.de/luftpistole-landesliga-nord-wettkampftag-1-der-erste-wettkampftag-ist-um-hier-die-ergebnisse.html",
+            "url": "https://sv-niedernhall.de/luftpistole-landesliga-nord-wettkampftag-1-der-erste-wettkampftag-ist-um-hier-die-ergebnisse.html",
+            "title": "Luftpistole Landesliga Nord Wettkampftag 1 Der erste Wettkampftag ist um hier die Ergebnisse.",
+            "summary": "Ergebnisse WKT1 Setzliste WKT3",
+            "content_html": "<p><a href=\"https://sv-niedernhall.de/LL-Nord-LP-ERGEBNIS-WKT1.PDF\" target=\"_blank\" rel=\"noopener noreferrer\">Ergebnisse WKT1</a></p>\n<p><a href=\"https://sv-niedernhall.de/LL-Nord-LP-SETZLQ-WKT3.PDF\" target=\"_blank\" rel=\"noopener noreferrer\">Setzliste WKT3</a></p>",
+            "author": {
+                "name": "Lucien Kerl"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-09T19:26:19+02:00",
+            "date_modified": "2021-10-09T19:26:19+02:00"
+        },
+        {
             "id": "https://sv-niedernhall.de/corona-news.html",
             "url": "https://sv-niedernhall.de/corona-news.html",
             "title": "Corona-News",

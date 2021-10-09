@@ -3,12 +3,33 @@
     <title>SV Niedernhall</title>
     <link href="https://sv-niedernhall.de/feed.xml" rel="self" />
     <link href="https://sv-niedernhall.de" />
-    <updated>2021-10-04T22:27:25+02:00</updated>
+    <updated>2021-10-09T19:26:19+02:00</updated>
     <author>
         <name>Lucien Kerl</name>
     </author>
     <id>https://sv-niedernhall.de</id>
 
+    <entry>
+        <title>Luftpistole Landesliga Nord Wettkampftag 1 Der erste Wettkampftag ist um hier die Ergebnisse.</title>
+        <author>
+            <name>Lucien Kerl</name>
+        </author>
+        <link href="https://sv-niedernhall.de/luftpistole-landesliga-nord-wettkampftag-1-der-erste-wettkampftag-ist-um-hier-die-ergebnisse.html"/>
+        <id>https://sv-niedernhall.de/luftpistole-landesliga-nord-wettkampftag-1-der-erste-wettkampftag-ist-um-hier-die-ergebnisse.html</id>
+
+        <updated>2021-10-09T19:26:19+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Ergebnisse WKT1 Setzliste WKT3
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><a href="https://sv-niedernhall.de/LL-Nord-LP-ERGEBNIS-WKT1.PDF" target="_blank" rel="noopener noreferrer">Ergebnisse WKT1</a></p>
+<p><a href="https://sv-niedernhall.de/LL-Nord-LP-SETZLQ-WKT3.PDF" target="_blank" rel="noopener noreferrer">Setzliste WKT3</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Corona-News</title>
         <author>

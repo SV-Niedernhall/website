@@ -3,12 +3,34 @@
     <title>SV Niedernhall</title>
     <link href="https://sv-niedernhall.de/feed.xml" rel="self" />
     <link href="https://sv-niedernhall.de" />
-    <updated>2021-10-09T19:28:37+02:00</updated>
+    <updated>2022-01-11T16:34:27+01:00</updated>
     <author>
         <name>Lucien Kerl</name>
     </author>
     <id>https://sv-niedernhall.de</id>
 
+    <entry>
+        <title>Corona-Regel Update</title>
+        <author>
+            <name>Lucien Kerl</name>
+        </author>
+        <link href="https://sv-niedernhall.de/corona-regel-update.html"/>
+        <id>https://sv-niedernhall.de/corona-regel-update.html</id>
+
+        <updated>2022-01-11T16:34:27+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Aufgrund der neuen Corona Verordnung die ab dem 12.1.2022 gilt gelten jetzt andere Regeln. Da wir uns aktuell zusätzlich noch in der Alarmstufe&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Aufgrund der neuen Corona Verordnung die ab dem 12.1.2022 gilt gelten jetzt andere Regeln. Da wir uns aktuell zusätzlich noch in der Alarmstufe II befinden, gelten auch noch schärfere Regeln.</p>
+<p>Im Schützenhaus gilt 2G+. Auf dem Stand während des Schießens muss keine Maske getragen werden. Ansonsten ist FFP2 Maskenpflicht. Jeder Besucher ist Verpflichtet sich in eine Anwesenheitsliste einzutragen zwecks Dokumentation.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Luftpistole Landesliga Nord Wettkampftag 1</title>
         <author>

@@ -3,12 +3,34 @@
     <title>SV Niedernhall</title>
     <link href="https://sv-niedernhall.de/feed.xml" rel="self" />
     <link href="https://sv-niedernhall.de" />
-    <updated>2022-01-11T16:34:27+01:00</updated>
+    <updated>2022-04-04T16:59:03+02:00</updated>
     <author>
         <name>Lucien Kerl</name>
     </author>
     <id>https://sv-niedernhall.de</id>
 
+    <entry>
+        <title>Schützenhaus wieder normal geöffnet</title>
+        <author>
+            <name>Lucien Kerl</name>
+        </author>
+        <link href="https://sv-niedernhall.de/schuetzenhaus-wieder-normal-geoeffnet.html"/>
+        <id>https://sv-niedernhall.de/schuetzenhaus-wieder-normal-geoeffnet.html</id>
+
+        <updated>2022-04-04T16:59:03+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Aufgrund der neuen Corona Verordnung entfallen sämtliche Vorschriften und Regeln. Es kann also wieder ganz ohne Auflagen geschossen werden.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="align-left">Aufgrund der neuen Corona Verordnung entfallen sämtliche Vorschriften und Regeln.</p>
+<p class="align-left">Es kann also wieder ganz ohne Auflagen geschossen werden.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Corona-Regel Update</title>
         <author>

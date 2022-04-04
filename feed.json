@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://sv-niedernhall.de/schuetzenhaus-wieder-normal-geoeffnet.html",
+            "url": "https://sv-niedernhall.de/schuetzenhaus-wieder-normal-geoeffnet.html",
+            "title": "Schützenhaus wieder normal geöffnet",
+            "summary": "Aufgrund der neuen Corona Verordnung entfallen sämtliche Vorschriften und Regeln. Es kann also wieder ganz ohne Auflagen geschossen werden.",
+            "content_html": "<p class=\"align-left\">Aufgrund der neuen Corona Verordnung entfallen sämtliche Vorschriften und Regeln.</p>\n<p class=\"align-left\">Es kann also wieder ganz ohne Auflagen geschossen werden.</p>\n<p> </p>",
+            "author": {
+                "name": "Lucien Kerl"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-04-02T18:00:00+02:00",
+            "date_modified": "2022-04-04T16:59:03+02:00"
+        },
+        {
             "id": "https://sv-niedernhall.de/corona-regel-update.html",
             "url": "https://sv-niedernhall.de/corona-regel-update.html",
             "title": "Corona-Regel Update",

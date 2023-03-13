@@ -3,12 +3,32 @@
     <title>SV Niedernhall</title>
     <link href="https://sv-niedernhall.de/feed.xml" rel="self" />
     <link href="https://sv-niedernhall.de" />
-    <updated>2022-04-04T16:59:03+02:00</updated>
+    <updated>2023-03-13T19:40:24+01:00</updated>
     <author>
         <name>Lucien Kerl</name>
     </author>
     <id>https://sv-niedernhall.de</id>
 
+    <entry>
+        <title>Jahreshauptversammlung am 17.03.2023</title>
+        <author>
+            <name>Lucien Kerl</name>
+        </author>
+        <link href="https://sv-niedernhall.de/jahreshauptversammlung-am-17032023.html"/>
+        <id>https://sv-niedernhall.de/jahreshauptversammlung-am-17032023.html</id>
+
+        <updated>2023-03-13T19:40:24+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Alle Mitglieder sind Herzlich zu unserer Hauptversammlung am 17.03.2023 um 19 Uhr eingeladen.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Alle Mitglieder sind Herzlich zu unserer Hauptversammlung am 17.03.2023 um 19 Uhr  eingeladen.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Schützenhaus wieder normal geöffnet</title>
         <author>

@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://sv-niedernhall.de/jahreshauptversammlung-am-17032023.html",
+            "url": "https://sv-niedernhall.de/jahreshauptversammlung-am-17032023.html",
+            "title": "Jahreshauptversammlung am 17.03.2023",
+            "summary": "Alle Mitglieder sind Herzlich zu unserer Hauptversammlung am 17.03.2023 um 19 Uhr eingeladen.",
+            "content_html": "<p>Alle Mitglieder sind Herzlich zu unserer Hauptversammlung am 17.03.2023 um 19 Uhr  eingeladen.</p>",
+            "author": {
+                "name": "Lucien Kerl"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-03-01T19:40:00+01:00",
+            "date_modified": "2023-03-13T19:40:24+01:00"
+        },
+        {
             "id": "https://sv-niedernhall.de/schuetzenhaus-wieder-normal-geoeffnet.html",
             "url": "https://sv-niedernhall.de/schuetzenhaus-wieder-normal-geoeffnet.html",
             "title": "Schützenhaus wieder normal geöffnet",

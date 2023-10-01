@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://sv-niedernhall.de/vereinsmeisterschaft-2023.html",
+            "url": "https://sv-niedernhall.de/vereinsmeisterschaft-2023.html",
+            "title": "Vereinsmeisterschaft 2023",
+            "summary": "Die Vereinsmeisterschaft 2023 findet in diesem Jahr vom 1.10.2023 bis zum 30.11.2023. Ich wünsche allen Teilnehmern gut Schuss.",
+            "content_html": "<p>Die Vereinsmeisterschaft 2023 findet in diesem Jahr vom 1.10.2023 bis zum 30.11.2023.</p>\n<p>Ich wünsche allen Teilnehmern gut Schuss.</p>",
+            "author": {
+                "name": "Lucien Kerl"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-01T20:56:28+02:00",
+            "date_modified": "2023-10-01T20:56:28+02:00"
+        },
+        {
             "id": "https://sv-niedernhall.de/jahreshauptversammlung-am-17032023.html",
             "url": "https://sv-niedernhall.de/jahreshauptversammlung-am-17032023.html",
             "title": "Jahreshauptversammlung am 17.03.2023",

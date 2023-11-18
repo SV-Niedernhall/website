@@ -3,12 +3,33 @@
     <title>SV Niedernhall</title>
     <link href="https://sv-niedernhall.de/feed.xml" rel="self" />
     <link href="https://sv-niedernhall.de" />
-    <updated>2023-10-01T20:58:10+02:00</updated>
+    <updated>2023-11-19T00:02:52+01:00</updated>
     <author>
         <name>Lucien Kerl</name>
     </author>
     <id>https://sv-niedernhall.de</id>
 
+    <entry>
+        <title>Einladung zur Nikolausfeier</title>
+        <author>
+            <name>Lucien Kerl</name>
+        </author>
+        <link href="https://sv-niedernhall.de/einladung-zur-nikolausfeier.html"/>
+        <id>https://sv-niedernhall.de/einladung-zur-nikolausfeier.html</id>
+
+        <updated>2023-11-19T00:02:52+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Am 16. Dezember 2023 um 15.00 Uhr mit Kaffee und Kuchen findet unsere diesjährige Nikolausfeier statt.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Am 16. Dezember 2023 um 15.00 Uhr mit Kaffee und Kuchen findet unsere diesjährige Nikolausfeier statt.</p>
+<figure class="post__image"><img loading="lazy"  src="undefined" alt="" data-is-external-image="true"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Vereinsmeisterschaft 2023</title>
         <author>

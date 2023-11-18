@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://sv-niedernhall.de/einladung-zur-nikolausfeier.html",
+            "url": "https://sv-niedernhall.de/einladung-zur-nikolausfeier.html",
+            "title": "Einladung zur Nikolausfeier",
+            "summary": "Am 16. Dezember 2023 um 15.00 Uhr mit Kaffee und Kuchen findet unsere diesjährige Nikolausfeier statt.",
+            "content_html": "<p>Am 16. Dezember 2023 um 15.00 Uhr mit Kaffee und Kuchen findet unsere diesjährige Nikolausfeier statt.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"undefined\" alt=\"\" data-is-external-image=\"true\"></figure>",
+            "author": {
+                "name": "Lucien Kerl"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-11-19T00:01:39+01:00",
+            "date_modified": "2023-11-19T00:02:52+01:00"
+        },
+        {
             "id": "https://sv-niedernhall.de/vereinsmeisterschaft-2023.html",
             "url": "https://sv-niedernhall.de/vereinsmeisterschaft-2023.html",
             "title": "Vereinsmeisterschaft 2023",

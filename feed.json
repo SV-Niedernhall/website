@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://sv-niedernhall.de/schuetzenhaus-geschlossen.html",
+            "url": "https://sv-niedernhall.de/schuetzenhaus-geschlossen.html",
+            "title": "Schützenhaus Geschlossen",
+            "summary": "Das Schützenhaus ist am 24.12.2023 und am 31.12.2023 geschlossen. Am 28.12.2023 ist der Letzte Offene Tag im Jahr 2023.",
+            "content_html": "<p>Das Schützenhaus ist am 24.12.2023 und am 31.12.2023 geschlossen.</p>\n<p>Am 28.12.2023 ist der Letzte Offene Tag im Jahr 2023.</p>",
+            "author": {
+                "name": "Lucien Kerl"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-12-16T16:34:00+01:00",
+            "date_modified": "2023-12-28T16:36:15+01:00"
+        },
+        {
             "id": "https://sv-niedernhall.de/einladung-zur-nikolausfeier.html",
             "url": "https://sv-niedernhall.de/einladung-zur-nikolausfeier.html",
             "title": "Einladung zur Nikolausfeier",

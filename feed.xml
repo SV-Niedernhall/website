@@ -3,12 +3,33 @@
     <title>SV Niedernhall</title>
     <link href="https://sv-niedernhall.de/feed.xml" rel="self" />
     <link href="https://sv-niedernhall.de" />
-    <updated>2023-11-19T00:08:28+01:00</updated>
+    <updated>2023-12-28T16:36:15+01:00</updated>
     <author>
         <name>Lucien Kerl</name>
     </author>
     <id>https://sv-niedernhall.de</id>
 
+    <entry>
+        <title>Schützenhaus Geschlossen</title>
+        <author>
+            <name>Lucien Kerl</name>
+        </author>
+        <link href="https://sv-niedernhall.de/schuetzenhaus-geschlossen.html"/>
+        <id>https://sv-niedernhall.de/schuetzenhaus-geschlossen.html</id>
+
+        <updated>2023-12-28T16:36:15+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Das Schützenhaus ist am 24.12.2023 und am 31.12.2023 geschlossen. Am 28.12.2023 ist der Letzte Offene Tag im Jahr 2023.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Das Schützenhaus ist am 24.12.2023 und am 31.12.2023 geschlossen.</p>
+<p>Am 28.12.2023 ist der Letzte Offene Tag im Jahr 2023.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Einladung zur Nikolausfeier</title>
         <author>

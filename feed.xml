@@ -3,12 +3,32 @@
     <title>SV Niedernhall</title>
     <link href="https://sv-niedernhall.de/feed.xml" rel="self" />
     <link href="https://sv-niedernhall.de" />
-    <updated>2023-12-28T16:36:15+01:00</updated>
+    <updated>2024-08-31T23:44:44+02:00</updated>
     <author>
         <name>Lucien Kerl</name>
     </author>
     <id>https://sv-niedernhall.de</id>
 
+    <entry>
+        <title>Vereinsmeisterschaft 2024</title>
+        <author>
+            <name>Lucien Kerl</name>
+        </author>
+        <link href="https://sv-niedernhall.de/vereinsmeisterschaft-2024.html"/>
+        <id>https://sv-niedernhall.de/vereinsmeisterschaft-2024.html</id>
+
+        <updated>2024-08-31T23:44:44+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Die Vereinsmeisterschaft ist in diesem Jahr ab Donnerstag, den 03. Oktober 2024 bis einschließlich Donnerstag, den 28. November 2024. Alle Mitglieder sind herzlich&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Die Vereinsmeisterschaft ist in diesem Jahr ab Donnerstag, den 03. Oktober 2024 bis<br>einschließlich Donnerstag, den 28. November 2024. Alle Mitglieder sind herzlich dazu eingeladen.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Schützenhaus Geschlossen</title>
         <author>

@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://sv-niedernhall.de/nikolausfeier.html",
+            "url": "https://sv-niedernhall.de/nikolausfeier.html",
+            "title": "Nikolausfeier",
+            "summary": "Die Nikolausfeier findet dieses Jahr am 15.12.2024 Statt.",
+            "content_html": "<p>Die Nikolausfeier findet dieses Jahr am 15.12.2024 Statt.</p>",
+            "author": {
+                "name": "Lucien Kerl"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-10-03T12:24:11+02:00",
+            "date_modified": "2024-10-03T12:24:11+02:00"
+        },
+        {
             "id": "https://sv-niedernhall.de/vereinsmeisterschaft-2024.html",
             "url": "https://sv-niedernhall.de/vereinsmeisterschaft-2024.html",
             "title": "Vereinsmeisterschaft 2024",

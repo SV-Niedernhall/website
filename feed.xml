@@ -3,12 +3,32 @@
     <title>SV Niedernhall</title>
     <link href="https://sv-niedernhall.de/feed.xml" rel="self" />
     <link href="https://sv-niedernhall.de" />
-    <updated>2024-08-31T23:44:44+02:00</updated>
+    <updated>2024-10-03T12:24:11+02:00</updated>
     <author>
         <name>Lucien Kerl</name>
     </author>
     <id>https://sv-niedernhall.de</id>
 
+    <entry>
+        <title>Nikolausfeier</title>
+        <author>
+            <name>Lucien Kerl</name>
+        </author>
+        <link href="https://sv-niedernhall.de/nikolausfeier.html"/>
+        <id>https://sv-niedernhall.de/nikolausfeier.html</id>
+
+        <updated>2024-10-03T12:24:11+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Die Nikolausfeier findet dieses Jahr am 15.12.2024 Statt.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Die Nikolausfeier findet dieses Jahr am 15.12.2024 Statt.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Vereinsmeisterschaft 2024</title>
         <author>

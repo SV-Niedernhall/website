@@ -10,18 +10,32 @@
     },
     "items": [
         {
+            "id": "https://sv-niedernhall.de/oeffnungszeiten-ueber-weihnachten.html",
+            "url": "https://sv-niedernhall.de/oeffnungszeiten-ueber-weihnachten.html",
+            "title": "Öffnungszeiten über Weihnachten ",
+            "summary": "Das Schützenhaus ist am 26.12.2024 geschlossen. Am 22.12.2024 und am 29.12.2024 ist noch geöffnet.",
+            "content_html": "<p>Das Schützenhaus ist am 26.12.2024 geschlossen.</p>\n<p>Am 22.12.2024 und am 29.12.2024 ist noch geöffnet.</p>",
+            "author": {
+                "name": "Lucien Kerl"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-12-07T23:27:23+01:00",
+            "date_modified": "2024-12-07T23:27:23+01:00"
+        },
+        {
             "id": "https://sv-niedernhall.de/nikolausfeier.html",
             "url": "https://sv-niedernhall.de/nikolausfeier.html",
-            "title": "Nikolausfeier",
-            "summary": "Die Nikolausfeier findet dieses Jahr am 15.12.2024 Statt.",
-            "content_html": "<p>Die Nikolausfeier findet dieses Jahr am 15.12.2024 Statt.</p>",
+            "title": "Weihnachtsfeier ",
+            "summary": "Die Weihnachtsfeier findet dieses Jahr am 15.12.2024 statt. Der Beginn ist 15 Uhr.",
+            "content_html": "<p>Die Weihnachtsfeier findet dieses Jahr am 15.12.2024 statt.<br>Der Beginn ist 15 Uhr.</p>",
             "author": {
                 "name": "Robert Fischer"
             },
             "tags": [
             ],
             "date_published": "2024-10-03T12:24:11+02:00",
-            "date_modified": "2024-10-03T12:38:40+02:00"
+            "date_modified": "2024-12-07T23:23:38+01:00"
         },
         {
             "id": "https://sv-niedernhall.de/vereinsmeisterschaft-2024.html",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2021-10-09T19:26:19+02:00",
             "date_modified": "2021-10-09T19:28:37+02:00"
-        },
-        {
-            "id": "https://sv-niedernhall.de/corona-news.html",
-            "url": "https://sv-niedernhall.de/corona-news.html",
-            "title": "Corona-News",
-            "summary": "Es darf wieder geschossen werden. Es sind lediglich die 3G Regeln einzuhalten. Wir freuen uns auf euer erscheinen.",
-            "content_html": "<p>Es darf wieder geschossen werden. Es sind lediglich die 3G Regeln einzuhalten.</p>\n<p>Wir freuen uns auf euer erscheinen.</p>",
-            "author": {
-                "name": "Lucien Kerl"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-10-04T22:27:25+02:00",
-            "date_modified": "2021-10-04T22:27:25+02:00"
         }
     ]
 }

@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://sv-niedernhall.de/jahreshauptversammlung-2025.html",
+            "url": "https://sv-niedernhall.de/jahreshauptversammlung-2025.html",
+            "title": "Jahreshauptversammlung 2025",
+            "summary": "Die diesjährige Jahreshauptversammlung findet am 7.3.2025 statt. Alle Mitglieder sind dazu herzlich eingeladen.",
+            "content_html": "<p>Die diesjährige Jahreshauptversammlung findet am 7.3.2025 statt.</p>\n<p>Alle Mitglieder sind dazu herzlich eingeladen.</p>",
+            "author": {
+                "name": "Lucien Kerl"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-02-06T00:28:24+01:00",
+            "date_modified": "2025-02-06T00:28:24+01:00"
+        },
+        {
             "id": "https://sv-niedernhall.de/oeffnungszeiten-ueber-weihnachten.html",
             "url": "https://sv-niedernhall.de/oeffnungszeiten-ueber-weihnachten.html",
             "title": "Öffnungszeiten über Weihnachten ",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2022-01-11T16:34:27+01:00",
             "date_modified": "2022-01-11T16:34:27+01:00"
-        },
-        {
-            "id": "https://sv-niedernhall.de/luftpistole-landesliga-nord-wettkampftag-1-der-erste-wettkampftag-ist-um-hier-die-ergebnisse.html",
-            "url": "https://sv-niedernhall.de/luftpistole-landesliga-nord-wettkampftag-1-der-erste-wettkampftag-ist-um-hier-die-ergebnisse.html",
-            "title": "Luftpistole Landesliga Nord Wettkampftag 1",
-            "summary": " Der erste Wettkampftag ist um. Hier die Ergebnisse. Ergebnisse WKT1 Setzliste WKT3",
-            "content_html": "<p> Der erste Wettkampftag ist um. Hier die Ergebnisse.</p>\n<p><a href=\"https://sv-niedernhall.de/LL-Nord-LP-ERGEBNIS-WKT1.PDF\" target=\"_blank\" rel=\"noopener noreferrer\">Ergebnisse WKT1</a></p>\n<p><a href=\"https://sv-niedernhall.de/LL-Nord-LP-SETZLQ-WKT3.PDF\" target=\"_blank\" rel=\"noopener noreferrer\">Setzliste WKT3</a></p>",
-            "author": {
-                "name": "Robert Fischer"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-10-09T19:26:19+02:00",
-            "date_modified": "2021-10-09T19:28:37+02:00"
         }
     ]
 }

@@ -3,12 +3,33 @@
     <title>SV Niedernhall</title>
     <link href="https://sv-niedernhall.de/feed.xml" rel="self" />
     <link href="https://sv-niedernhall.de" />
-    <updated>2024-12-07T23:27:23+01:00</updated>
+    <updated>2025-02-06T00:28:24+01:00</updated>
     <author>
         <name>Lucien Kerl</name>
     </author>
     <id>https://sv-niedernhall.de</id>
 
+    <entry>
+        <title>Jahreshauptversammlung 2025</title>
+        <author>
+            <name>Lucien Kerl</name>
+        </author>
+        <link href="https://sv-niedernhall.de/jahreshauptversammlung-2025.html"/>
+        <id>https://sv-niedernhall.de/jahreshauptversammlung-2025.html</id>
+
+        <updated>2025-02-06T00:28:24+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Die diesjährige Jahreshauptversammlung findet am 7.3.2025 statt. Alle Mitglieder sind dazu herzlich eingeladen.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Die diesjährige Jahreshauptversammlung findet am 7.3.2025 statt.</p>
+<p>Alle Mitglieder sind dazu herzlich eingeladen.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Öffnungszeiten über Weihnachten </title>
         <author>
@@ -193,28 +214,6 @@
                 <p>Aufgrund der neuen Corona Verordnung die ab dem 12.1.2022 gilt gelten jetzt andere Regeln. Da wir uns aktuell zusätzlich noch in der Alarmstufe II befinden, gelten auch noch schärfere Regeln.</p>
 <p>Im Schützenhaus gilt 2G+. Auf dem Stand während des Schießens muss keine Maske getragen werden. Ansonsten ist FFP2 Maskenpflicht. Jeder Besucher ist Verpflichtet sich in eine Anwesenheitsliste einzutragen zwecks Dokumentation.</p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Luftpistole Landesliga Nord Wettkampftag 1</title>
-        <author>
-            <name>Robert Fischer</name>
-        </author>
-        <link href="https://sv-niedernhall.de/luftpistole-landesliga-nord-wettkampftag-1-der-erste-wettkampftag-ist-um-hier-die-ergebnisse.html"/>
-        <id>https://sv-niedernhall.de/luftpistole-landesliga-nord-wettkampftag-1-der-erste-wettkampftag-ist-um-hier-die-ergebnisse.html</id>
-
-        <updated>2021-10-09T19:26:19+02:00</updated>
-            <summary>
-                <![CDATA[
-                     Der erste Wettkampftag ist um. Hier die Ergebnisse. Ergebnisse WKT1 Setzliste WKT3
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p> Der erste Wettkampftag ist um. Hier die Ergebnisse.</p>
-<p><a href="https://sv-niedernhall.de/LL-Nord-LP-ERGEBNIS-WKT1.PDF" target="_blank" rel="noopener noreferrer">Ergebnisse WKT1</a></p>
-<p><a href="https://sv-niedernhall.de/LL-Nord-LP-SETZLQ-WKT3.PDF" target="_blank" rel="noopener noreferrer">Setzliste WKT3</a></p>
             ]]>
         </content>
     </entry>

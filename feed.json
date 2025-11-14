@@ -10,6 +10,18 @@
     },
     "items": [
         {
+            "id": "https://sv-niedernhall.de/einladung-nikolausfeier-am-14122025.html",
+            "url": "https://sv-niedernhall.de/einladung-nikolausfeier-am-14122025.html",
+            "title": "Einladung Nikolausfeier am 14.12.2025",
+            "author": {
+                "name": "Robert Fischer"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-11-14T18:58:09+01:00",
+            "date_modified": "2025-11-14T18:58:52+01:00"
+        },
+        {
             "id": "https://sv-niedernhall.de/jahreshauptversammlung-2025.html",
             "url": "https://sv-niedernhall.de/jahreshauptversammlung-2025.html",
             "title": "Jahreshauptversammlung 2025",
@@ -134,20 +146,6 @@
             ],
             "date_published": "2022-04-02T18:00:00+02:00",
             "date_modified": "2022-04-04T16:59:03+02:00"
-        },
-        {
-            "id": "https://sv-niedernhall.de/corona-regel-update.html",
-            "url": "https://sv-niedernhall.de/corona-regel-update.html",
-            "title": "Corona-Regel Update",
-            "summary": "Aufgrund der neuen Corona Verordnung die ab dem 12.1.2022 gilt gelten jetzt andere Regeln. Da wir uns aktuell zusätzlich noch in der Alarmstufe&hellip;",
-            "content_html": "<p>Aufgrund der neuen Corona Verordnung die ab dem 12.1.2022 gilt gelten jetzt andere Regeln. Da wir uns aktuell zusätzlich noch in der Alarmstufe II befinden, gelten auch noch schärfere Regeln.</p>\n<p>Im Schützenhaus gilt 2G+. Auf dem Stand während des Schießens muss keine Maske getragen werden. Ansonsten ist FFP2 Maskenpflicht. Jeder Besucher ist Verpflichtet sich in eine Anwesenheitsliste einzutragen zwecks Dokumentation.</p>\n<p> </p>",
-            "author": {
-                "name": "Robert Fischer"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-01-11T16:34:27+01:00",
-            "date_modified": "2022-01-11T16:34:27+01:00"
         }
     ]
 }

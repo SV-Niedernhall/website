@@ -3,7 +3,7 @@
     <title>SV Niedernhall</title>
     <link href="https://sv-niedernhall.de/feed.xml" rel="self" />
     <link href="https://sv-niedernhall.de" />
-    <updated>2025-11-14T18:58:52+01:00</updated>
+    <updated>2025-11-14T19:02:16+01:00</updated>
     <author>
         <name>Lucien Kerl</name>
     </author>
@@ -19,7 +19,11 @@
 
         <updated>2025-11-14T18:58:09+01:00</updated>
             <summary></summary>
-        <content></content>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://sv-niedernhall.de/media/posts/23/Screenshot-2025-11-14-190105.png" alt="" width="916" height="1291" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sv-niedernhall.de/media/posts/23/responsive/Screenshot-2025-11-14-190105-xs.png 300w ,https://sv-niedernhall.de/media/posts/23/responsive/Screenshot-2025-11-14-190105-sm.png 480w ,https://sv-niedernhall.de/media/posts/23/responsive/Screenshot-2025-11-14-190105-md.png 768w ,https://sv-niedernhall.de/media/posts/23/responsive/Screenshot-2025-11-14-190105-lg.png 1024w ,https://sv-niedernhall.de/media/posts/23/responsive/Screenshot-2025-11-14-190105-xl.png 1360w ,https://sv-niedernhall.de/media/posts/23/responsive/Screenshot-2025-11-14-190105-2xl.png 1600w"></figure>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Jahreshauptversammlung 2025</title>

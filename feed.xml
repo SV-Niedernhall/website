@@ -3,7 +3,7 @@
     <title>SV Niedernhall</title>
     <link href="https://sv-niedernhall.de/feed.xml" rel="self" />
     <link href="https://sv-niedernhall.de" />
-    <updated>2025-12-07T20:41:58+01:00</updated>
+    <updated>2025-12-07T20:51:07+01:00</updated>
     <author>
         <name>Lucien Kerl</name>
     </author>
@@ -41,7 +41,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p><a href="https://sv-niedernhall.de/LL-Nord-LP-SETZLQ-WKT3.PDF" target="_blank" rel="noopener noreferrer">Hier zur Ergebnisliste.</a></p>
+                <p><a href="https://sv-niedernhall.de/LLN-LP-ERGEBNIS-WK3.PDF" target="_blank" rel="noopener noreferrer">Hier zur Ergebnisliste.</a></p>
             ]]>
         </content>
     </entry>
@@ -61,7 +61,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p><a href="https://sv-niedernhall.de/LL-Nord-LP-ERGEBNIS-WKT1.PDF" target="_blank" rel="noopener noreferrer">Hier zur Ergebnisliste.</a></p>
+                <p><a href="https://sv-niedernhall.de/LLN-LP-ERGEBNIS-WK1-2_1.PDF" target="_blank" rel="noopener noreferrer">Hier zur Ergebnisliste.</a></p>
             ]]>
         </content>
     </entry>

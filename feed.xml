@@ -3,7 +3,7 @@
     <title>SV Niedernhall</title>
     <link href="https://sv-niedernhall.de/feed.xml" rel="self" />
     <link href="https://sv-niedernhall.de" />
-    <updated>2025-11-14T19:02:16+01:00</updated>
+    <updated>2025-12-07T20:41:58+01:00</updated>
     <author>
         <name>Lucien Kerl</name>
     </author>
@@ -26,6 +26,46 @@
         </content>
     </entry>
     <entry>
+        <title>Landesliga Nord Luftpistole 2025/26 Ergebnisliste 2</title>
+        <author>
+            <name>Robert Fischer</name>
+        </author>
+        <link href="https://sv-niedernhall.de/landesliga-nord-luftpistole-202526-ergebnisliste-2.html"/>
+        <id>https://sv-niedernhall.de/landesliga-nord-luftpistole-202526-ergebnisliste-2.html</id>
+
+        <updated>2025-11-09T20:40:00+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Hier zur Ergebnisliste.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><a href="https://sv-niedernhall.de/LL-Nord-LP-SETZLQ-WKT3.PDF" target="_blank" rel="noopener noreferrer">Hier zur Ergebnisliste.</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Landesliga Nord Luftpistole 2025/26 Ergebnisliste 1</title>
+        <author>
+            <name>Robert Fischer</name>
+        </author>
+        <link href="https://sv-niedernhall.de/landesliga-nord-luftpistole-202526-ergebnisliste-1.html"/>
+        <id>https://sv-niedernhall.de/landesliga-nord-luftpistole-202526-ergebnisliste-1.html</id>
+
+        <updated>2025-10-13T15:37:00+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Hier zur Ergebnisliste.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><a href="https://sv-niedernhall.de/LL-Nord-LP-ERGEBNIS-WKT1.PDF" target="_blank" rel="noopener noreferrer">Hier zur Ergebnisliste.</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Jahreshauptversammlung 2025</title>
         <author>
             <name>Robert Fischer</name>
@@ -34,7 +74,7 @@
         <id>https://sv-niedernhall.de/jahreshauptversammlung-2025.html</id>
 
         <updated>2025-02-06T00:28:24+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     Die diesjährige Jahreshauptversammlung findet am 7.3.2025 um 19 Uhr im Schützenaus statt. Alle Mitglieder sind dazu herzlich eingeladen.
                 ]]>
@@ -55,7 +95,7 @@
         <id>https://sv-niedernhall.de/oeffnungszeiten-ueber-weihnachten.html</id>
 
         <updated>2024-12-07T23:27:23+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     Das Schützenhaus ist am 26.12.2024 geschlossen. Am 22.12.2024 und am 29.12.2024 ist noch geöffnet.
                 ]]>
@@ -76,7 +116,7 @@
         <id>https://sv-niedernhall.de/nikolausfeier.html</id>
 
         <updated>2024-10-03T12:24:11+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     Die Weihnachtsfeier findet dieses Jahr am 15.12.2024 statt. Der Beginn ist 15 Uhr.
                 ]]>
@@ -96,7 +136,7 @@
         <id>https://sv-niedernhall.de/vereinsmeisterschaft-2024.html</id>
 
         <updated>2024-08-31T23:44:44+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     Die Vereinsmeisterschaft ist in diesem Jahr ab Donnerstag, den 03. Oktober 2024 bis einschließlich Donnerstag, den 28. November 2024. Alle Mitglieder sind herzlich&hellip;
                 ]]>
@@ -116,7 +156,7 @@
         <id>https://sv-niedernhall.de/schuetzenhaus-geschlossen.html</id>
 
         <updated>2023-12-16T16:34:00+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     Das Schützenhaus ist am 24.12.2023 und am 31.12.2023 geschlossen. Am 28.12.2023 ist der Letzte Offene Tag im Jahr 2023.
                 ]]>
@@ -137,7 +177,7 @@
         <id>https://sv-niedernhall.de/einladung-zur-nikolausfeier.html</id>
 
         <updated>2023-11-19T00:01:39+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     Am 16. Dezember 2023 um 15.00 Uhr mit Kaffee und Kuchen findet unsere diesjährige Nikolausfeier statt. Es sind Mitglieder und Nichtmitglieder recht herzlich&hellip;
                 ]]>
@@ -157,7 +197,7 @@
         <id>https://sv-niedernhall.de/vereinsmeisterschaft-2023.html</id>
 
         <updated>2023-10-01T20:56:28+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     Die Vereinsmeisterschaft 2023 findet in diesem Jahr vom 1.10.2023 bis zum 30.11.2023. Wir wünschen allen Teilnehmern gut Schuss.
                 ]]>
@@ -166,48 +206,6 @@
             <![CDATA[
                 <p>Die Vereinsmeisterschaft 2023 findet in diesem Jahr vom 1.10.2023 bis zum 30.11.2023.</p>
 <p>Wir wünschen allen Teilnehmern gut Schuss.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Jahreshauptversammlung am 17.03.2023</title>
-        <author>
-            <name>Robert Fischer</name>
-        </author>
-        <link href="https://sv-niedernhall.de/jahreshauptversammlung-am-17032023.html"/>
-        <id>https://sv-niedernhall.de/jahreshauptversammlung-am-17032023.html</id>
-
-        <updated>2023-03-01T19:40:00+01:00</updated>
-            <summary>
-                <![CDATA[
-                    Alle Mitglieder sind Herzlich zu unserer Hauptversammlung am 17.03.2023 um 19 Uhr eingeladen.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Alle Mitglieder sind Herzlich zu unserer Hauptversammlung am 17.03.2023 um 19 Uhr  eingeladen.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Schützenhaus wieder normal geöffnet</title>
-        <author>
-            <name>Robert Fischer</name>
-        </author>
-        <link href="https://sv-niedernhall.de/schuetzenhaus-wieder-normal-geoeffnet.html"/>
-        <id>https://sv-niedernhall.de/schuetzenhaus-wieder-normal-geoeffnet.html</id>
-
-        <updated>2022-04-02T18:00:00+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Aufgrund der neuen Corona Verordnung entfallen sämtliche Vorschriften und Regeln. Es kann also wieder ganz ohne Auflagen geschossen werden.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p class="align-left">Aufgrund der neuen Corona Verordnung entfallen sämtliche Vorschriften und Regeln.</p>
-<p class="align-left">Es kann also wieder ganz ohne Auflagen geschossen werden.</p>
-<p> </p>
             ]]>
         </content>
     </entry>

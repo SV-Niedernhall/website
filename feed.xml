@@ -3,12 +3,36 @@
     <title>SV Niedernhall</title>
     <link href="https://sv-niedernhall.de/feed.xml" rel="self" />
     <link href="https://sv-niedernhall.de" />
-    <updated>2025-12-07T20:51:07+01:00</updated>
+    <updated>2025-12-24T16:55:49+01:00</updated>
     <author>
         <name>Lucien Kerl</name>
     </author>
     <id>https://sv-niedernhall.de</id>
 
+    <entry>
+        <title>Das Schützenhaus bleibt am 25.12.2025 geschlossen.</title>
+        <author>
+            <name>Robert Fischer</name>
+        </author>
+        <link href="https://sv-niedernhall.de/das-schuetzenhaus-bleibt-am-25122025-geschlossen.html"/>
+        <id>https://sv-niedernhall.de/das-schuetzenhaus-bleibt-am-25122025-geschlossen.html</id>
+
+        <updated>2025-12-24T16:55:49+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Der Schützenverein Niedernhall wünscht allen Fröhliche Weihnachten</title>
+        <author>
+            <name>Robert Fischer</name>
+        </author>
+        <link href="https://sv-niedernhall.de/der-schuetzenverein-niedernhall-wuenscht-allen-froehliche-weihnachten.html"/>
+        <id>https://sv-niedernhall.de/der-schuetzenverein-niedernhall-wuenscht-allen-froehliche-weihnachten.html</id>
+
+        <updated>2025-12-24T16:54:45+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Einladung Nikolausfeier am 14.12.2025</title>
         <author>
@@ -165,47 +189,6 @@
             <![CDATA[
                 <p>Das Schützenhaus ist am 24.12.2023 und am 31.12.2023 geschlossen.</p>
 <p>Am 28.12.2023 ist der Letzte Offene Tag im Jahr 2023.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Einladung zur Nikolausfeier</title>
-        <author>
-            <name>Robert Fischer</name>
-        </author>
-        <link href="https://sv-niedernhall.de/einladung-zur-nikolausfeier.html"/>
-        <id>https://sv-niedernhall.de/einladung-zur-nikolausfeier.html</id>
-
-        <updated>2023-11-19T00:01:39+01:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    Am 16. Dezember 2023 um 15.00 Uhr mit Kaffee und Kuchen findet unsere diesjährige Nikolausfeier statt. Es sind Mitglieder und Nichtmitglieder recht herzlich&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Am 16. Dezember 2023 um 15.00 Uhr mit Kaffee und Kuchen findet unsere diesjährige Nikolausfeier statt. Es sind Mitglieder und Nichtmitglieder recht herzlich eingeladen.<br>Weitere infos giebt es hier <a href="https://sv-niedernhall.de/Nikolausfeier.pdf" target="_blank" rel="noopener noreferrer">EINLADUNG NIKOLAUSFEIER</a> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Vereinsmeisterschaft 2023</title>
-        <author>
-            <name>Robert Fischer</name>
-        </author>
-        <link href="https://sv-niedernhall.de/vereinsmeisterschaft-2023.html"/>
-        <id>https://sv-niedernhall.de/vereinsmeisterschaft-2023.html</id>
-
-        <updated>2023-10-01T20:56:28+02:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    Die Vereinsmeisterschaft 2023 findet in diesem Jahr vom 1.10.2023 bis zum 30.11.2023. Wir wünschen allen Teilnehmern gut Schuss.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Die Vereinsmeisterschaft 2023 findet in diesem Jahr vom 1.10.2023 bis zum 30.11.2023.</p>
-<p>Wir wünschen allen Teilnehmern gut Schuss.</p>
             ]]>
         </content>
     </entry>

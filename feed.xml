@@ -3,7 +3,7 @@
     <title>SV Niedernhall</title>
     <link href="https://sv-niedernhall.de/feed.xml" rel="self" />
     <link href="https://sv-niedernhall.de" />
-    <updated>2026-02-16T19:07:53+01:00</updated>
+    <updated>2026-02-16T19:13:55+01:00</updated>
     <author>
         <name>Lucien Kerl</name>
     </author>
@@ -21,7 +21,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://sv-niedernhall.de/media/posts/28/20260209-Einladung-JHV.pdf" alt="Einladung zur Jahreshauptversammlung"></figure>
+                <figure class="post__image"><img loading="lazy"  src="https://sv-niedernhall.de/media/posts/28/Einladung-zur-Jahreshauptversammlung.png" alt="" width="964" height="1339" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sv-niedernhall.de/media/posts/28/responsive/Einladung-zur-Jahreshauptversammlung-xs.png 300w ,https://sv-niedernhall.de/media/posts/28/responsive/Einladung-zur-Jahreshauptversammlung-sm.png 480w ,https://sv-niedernhall.de/media/posts/28/responsive/Einladung-zur-Jahreshauptversammlung-md.png 768w ,https://sv-niedernhall.de/media/posts/28/responsive/Einladung-zur-Jahreshauptversammlung-lg.png 1024w ,https://sv-niedernhall.de/media/posts/28/responsive/Einladung-zur-Jahreshauptversammlung-xl.png 1360w ,https://sv-niedernhall.de/media/posts/28/responsive/Einladung-zur-Jahreshauptversammlung-2xl.png 1600w"></figure>
             ]]>
         </content>
     </entry>

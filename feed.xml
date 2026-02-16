@@ -3,7 +3,7 @@
     <title>SV Niedernhall</title>
     <link href="https://sv-niedernhall.de/feed.xml" rel="self" />
     <link href="https://sv-niedernhall.de" />
-    <updated>2026-02-16T19:13:55+01:00</updated>
+    <updated>2026-02-16T19:32:31+01:00</updated>
     <author>
         <name>Lucien Kerl</name>
     </author>
@@ -22,6 +22,26 @@
         <content type="html">
             <![CDATA[
                 <figure class="post__image"><img loading="lazy"  src="https://sv-niedernhall.de/media/posts/28/Einladung-zur-Jahreshauptversammlung.png" alt="" width="964" height="1339" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sv-niedernhall.de/media/posts/28/responsive/Einladung-zur-Jahreshauptversammlung-xs.png 300w ,https://sv-niedernhall.de/media/posts/28/responsive/Einladung-zur-Jahreshauptversammlung-sm.png 480w ,https://sv-niedernhall.de/media/posts/28/responsive/Einladung-zur-Jahreshauptversammlung-md.png 768w ,https://sv-niedernhall.de/media/posts/28/responsive/Einladung-zur-Jahreshauptversammlung-lg.png 1024w ,https://sv-niedernhall.de/media/posts/28/responsive/Einladung-zur-Jahreshauptversammlung-xl.png 1360w ,https://sv-niedernhall.de/media/posts/28/responsive/Einladung-zur-Jahreshauptversammlung-2xl.png 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Landesliga Nord Luftpistole 2025/26 Ergebnisliste 4</title>
+        <author>
+            <name>Robert Fischer</name>
+        </author>
+        <link href="https://sv-niedernhall.de/landesliga-nord-luftpistole-202526-ergebnisliste-4.html"/>
+        <id>https://sv-niedernhall.de/landesliga-nord-luftpistole-202526-ergebnisliste-4.html</id>
+
+        <updated>2026-01-11T22:12:00+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Hier zur Ergebnisliste
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><a href="https://sv-niedernhall.de/Landesliga Nord Luftpistole 2025_26 Ergebnisliste  4.pdf" target="_blank" rel="noopener noreferrer">Hier zur Ergebnisliste</a></p>
             ]]>
         </content>
     </entry>
@@ -48,6 +68,26 @@
         <updated>2025-12-24T16:54:45+01:00</updated>
             <summary></summary>
         <content></content>
+    </entry>
+    <entry>
+        <title>Landesliga Nord Luftpistole 2025/26 Ergebnisliste 3</title>
+        <author>
+            <name>Robert Fischer</name>
+        </author>
+        <link href="https://sv-niedernhall.de/landesliga-nord-luftpistole-202526-ergebnisliste-3.html"/>
+        <id>https://sv-niedernhall.de/landesliga-nord-luftpistole-202526-ergebnisliste-3.html</id>
+
+        <updated>2025-12-08T19:30:00+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Hier zur Ergebnisliste
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><a href="https://sv-niedernhall.de/Landesliga Nord Luftpistole 2025_26 Ergebnisliste  3.pdf" target="_blank" rel="noopener noreferrer">Hier zur Ergebnisliste</a></p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Einladung Nikolausfeier am 14.12.2025</title>
@@ -144,46 +184,6 @@
             <![CDATA[
                 <p>Das Schützenhaus ist am 26.12.2024 geschlossen.</p>
 <p>Am 22.12.2024 und am 29.12.2024 ist noch geöffnet.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Weihnachtsfeier </title>
-        <author>
-            <name>Robert Fischer</name>
-        </author>
-        <link href="https://sv-niedernhall.de/nikolausfeier.html"/>
-        <id>https://sv-niedernhall.de/nikolausfeier.html</id>
-
-        <updated>2024-10-03T12:24:11+02:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    Die Weihnachtsfeier findet dieses Jahr am 15.12.2024 statt. Der Beginn ist 15 Uhr.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Die Weihnachtsfeier findet dieses Jahr am 15.12.2024 statt.<br>Der Beginn ist 15 Uhr.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Vereinsmeisterschaft 2024</title>
-        <author>
-            <name>Robert Fischer</name>
-        </author>
-        <link href="https://sv-niedernhall.de/vereinsmeisterschaft-2024.html"/>
-        <id>https://sv-niedernhall.de/vereinsmeisterschaft-2024.html</id>
-
-        <updated>2024-08-31T23:44:44+02:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    Die Vereinsmeisterschaft ist in diesem Jahr ab Donnerstag, den 03. Oktober 2024 bis einschließlich Donnerstag, den 28. November 2024. Alle Mitglieder sind herzlich&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Die Vereinsmeisterschaft ist in diesem Jahr ab Donnerstag, den 03. Oktober 2024 bis<br>einschließlich Donnerstag, den 28. November 2024. Alle Mitglieder sind herzlich dazu eingeladen.</p>
             ]]>
         </content>
     </entry>

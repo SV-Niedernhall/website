@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "https://sv-niedernhall.de/einladung-zur-jahreshauptversammlung.html",
+            "url": "https://sv-niedernhall.de/einladung-zur-jahreshauptversammlung.html",
+            "title": "Einladung zur Jahreshauptversammlung",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://sv-niedernhall.de/media/posts/28/20260209-Einladung-JHV.pdf\" alt=\"Einladung zur Jahreshauptversammlung\"></figure>",
+            "author": {
+                "name": "Robert Fischer"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-02-16T19:07:53+01:00",
+            "date_modified": "2026-02-16T19:07:53+01:00"
+        },
+        {
             "id": "https://sv-niedernhall.de/das-schuetzenhaus-bleibt-am-25122025-geschlossen.html",
             "url": "https://sv-niedernhall.de/das-schuetzenhaus-bleibt-am-25122025-geschlossen.html",
             "title": "Das Schützenhaus bleibt am 25.12.2025 geschlossen.",
@@ -130,20 +143,6 @@
             ],
             "date_published": "2024-08-31T23:44:44+02:00",
             "date_modified": "2024-10-03T12:38:30+02:00"
-        },
-        {
-            "id": "https://sv-niedernhall.de/schuetzenhaus-geschlossen.html",
-            "url": "https://sv-niedernhall.de/schuetzenhaus-geschlossen.html",
-            "title": "Schützenhaus Geschlossen",
-            "summary": "Das Schützenhaus ist am 24.12.2023 und am 31.12.2023 geschlossen. Am 28.12.2023 ist der Letzte Offene Tag im Jahr 2023.",
-            "content_html": "<p>Das Schützenhaus ist am 24.12.2023 und am 31.12.2023 geschlossen.</p>\n<p>Am 28.12.2023 ist der Letzte Offene Tag im Jahr 2023.</p>",
-            "author": {
-                "name": "Robert Fischer"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-12-16T16:34:00+01:00",
-            "date_modified": "2023-12-28T16:36:15+01:00"
         }
     ]
 }

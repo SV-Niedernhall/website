@@ -3,12 +3,28 @@
     <title>SV Niedernhall</title>
     <link href="https://sv-niedernhall.de/feed.xml" rel="self" />
     <link href="https://sv-niedernhall.de" />
-    <updated>2025-12-24T16:55:49+01:00</updated>
+    <updated>2026-02-16T19:07:53+01:00</updated>
     <author>
         <name>Lucien Kerl</name>
     </author>
     <id>https://sv-niedernhall.de</id>
 
+    <entry>
+        <title>Einladung zur Jahreshauptversammlung</title>
+        <author>
+            <name>Robert Fischer</name>
+        </author>
+        <link href="https://sv-niedernhall.de/einladung-zur-jahreshauptversammlung.html"/>
+        <id>https://sv-niedernhall.de/einladung-zur-jahreshauptversammlung.html</id>
+
+        <updated>2026-02-16T19:07:53+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://sv-niedernhall.de/media/posts/28/20260209-Einladung-JHV.pdf" alt="Einladung zur Jahreshauptversammlung"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Das Schützenhaus bleibt am 25.12.2025 geschlossen.</title>
         <author>
@@ -168,27 +184,6 @@
         <content type="html">
             <![CDATA[
                 <p>Die Vereinsmeisterschaft ist in diesem Jahr ab Donnerstag, den 03. Oktober 2024 bis<br>einschließlich Donnerstag, den 28. November 2024. Alle Mitglieder sind herzlich dazu eingeladen.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Schützenhaus Geschlossen</title>
-        <author>
-            <name>Robert Fischer</name>
-        </author>
-        <link href="https://sv-niedernhall.de/schuetzenhaus-geschlossen.html"/>
-        <id>https://sv-niedernhall.de/schuetzenhaus-geschlossen.html</id>
-
-        <updated>2023-12-16T16:34:00+01:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    Das Schützenhaus ist am 24.12.2023 und am 31.12.2023 geschlossen. Am 28.12.2023 ist der Letzte Offene Tag im Jahr 2023.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Das Schützenhaus ist am 24.12.2023 und am 31.12.2023 geschlossen.</p>
-<p>Am 28.12.2023 ist der Letzte Offene Tag im Jahr 2023.</p>
             ]]>
         </content>
     </entry>

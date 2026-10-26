@@ -3,12 +3,33 @@
     <title>SV Niedernhall</title>
     <link href="https://sv-niedernhall.de/feed.xml" rel="self" />
     <link href="https://sv-niedernhall.de" />
-    <updated>2026-10-26T20:30:03+01:00</updated>
+    <updated>2026-10-26T20:34:10+01:00</updated>
     <author>
         <name>Lucien Kerl</name>
     </author>
     <id>https://sv-niedernhall.de</id>
 
+    <entry>
+        <title>Landesliga Nord Luftpistolen Ergebnisse Wettkammpftag 1</title>
+        <author>
+            <name>Robert Fischer</name>
+        </author>
+        <link href="https://sv-niedernhall.de/landesliga-nord-luftpistolen-ergebnisse-wettkammpftag-1.html"/>
+        <id>https://sv-niedernhall.de/landesliga-nord-luftpistolen-ergebnisse-wettkammpftag-1.html</id>
+
+        <updated>2026-10-26T20:34:10+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Landesliga Nord Luftpistole Ergebnisse Landesliga Nord Luftpistole Setzliste
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><a href="https://sv-niedernhall.de/LLN-LP-ERGEBNIS-WK1-2(1).pdf">Landesliga Nord Luftpistole Ergebnisse</a></p>
+<p><a href="https://sv-niedernhall.de/LLN-LP-Setzlistequer-WK3(2).pdf">Landesliga Nord Luftpistole Setzliste</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Einladung Vereinsmeisterschaften 2026</title>
         <author>
@@ -164,27 +185,6 @@
         <content type="html">
             <![CDATA[
                 <p><a href="https://sv-niedernhall.de/LLN-LP-ERGEBNIS-WK1-2_1.PDF" target="_blank" rel="noopener noreferrer">Hier zur Ergebnisliste.</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Jahreshauptversammlung 2025</title>
-        <author>
-            <name>Robert Fischer</name>
-        </author>
-        <link href="https://sv-niedernhall.de/jahreshauptversammlung-2025.html"/>
-        <id>https://sv-niedernhall.de/jahreshauptversammlung-2025.html</id>
-
-        <updated>2025-02-06T00:28:24+01:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    Die diesjährige Jahreshauptversammlung findet am 7.3.2025 um 19 Uhr im Schützenaus statt. Alle Mitglieder sind dazu herzlich eingeladen.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Die diesjährige Jahreshauptversammlung findet am 7.3.2025 um 19 Uhr im Schützenaus statt.</p>
-<p>Alle Mitglieder sind dazu herzlich eingeladen.</p>
             ]]>
         </content>
     </entry>

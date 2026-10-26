@@ -3,7 +3,7 @@
     <title>SV Niedernhall</title>
     <link href="https://sv-niedernhall.de/feed.xml" rel="self" />
     <link href="https://sv-niedernhall.de" />
-    <updated>2026-10-26T20:27:15+01:00</updated>
+    <updated>2026-10-26T20:30:03+01:00</updated>
     <author>
         <name>Lucien Kerl</name>
     </author>
@@ -20,12 +20,14 @@
         <updated>2026-10-01T20:10:00+02:00</updated>
             <summary type="html">
                 <![CDATA[
-                    Einladung VM 2026
+                    Die diesjährige Vereinsmeisterschaft findet von Donnerstag, den 1. Oktober 2026 bis einschließlich Sonntag, den 8. November 2026 statt. Hier die komplette Einladung: Einladung&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><a href="https://sv-niedernhall.de/Einladung VM 2026.pdf" target="_blank" rel="noopener noreferrer" download>Einladung VM 2026</a></p>
+                <p>Die diesjährige Vereinsmeisterschaft findet von Donnerstag, den 1. Oktober 2026 bis einschließlich Sonntag, den 8. November 2026 statt.</p>
+<p>Hier die komplette Einladung:</p>
+<p><a href="https://sv-niedernhall.de/Einladung VM 2026.pdf" target="_blank" rel="noopener noreferrer" download>Einladung VM 2026</a></p>
             ]]>
         </content>
     </entry>

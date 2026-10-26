@@ -3,7 +3,7 @@
     <title>SV Niedernhall</title>
     <link href="https://sv-niedernhall.de/feed.xml" rel="self" />
     <link href="https://sv-niedernhall.de" />
-    <updated>2026-10-26T20:16:49+01:00</updated>
+    <updated>2026-10-26T20:27:15+01:00</updated>
     <author>
         <name>Lucien Kerl</name>
     </author>
@@ -18,8 +18,16 @@
         <id>https://sv-niedernhall.de/einladung-vereinsmeisterschaften-2026.html</id>
 
         <updated>2026-10-01T20:10:00+02:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary type="html">
+                <![CDATA[
+                    Einladung VM 2026
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><a href="https://sv-niedernhall.de/Einladung VM 2026.pdf" target="_blank" rel="noopener noreferrer" download>Einladung VM 2026</a></p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Einladung zur Jahreshauptversammlung</title>
